@@ -7,3 +7,5 @@ Projects for test using respberry pi 4b.
 - mqtt.py uses mqtt path to connect.
 - ali.py connects to ali iot plaform.
 - 
+
+Ready for qt
