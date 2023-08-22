@@ -9,3 +9,6 @@ Projects for test using respberry pi 4b.
 - 
 
 Ready for qt
+
+dir/
+
