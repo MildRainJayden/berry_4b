@@ -1,4 +1,4 @@
-#remote_control.py
+#web.py
 from bottle import route,run,template,request
 import RPi.GPIO as GPIO
 import time
